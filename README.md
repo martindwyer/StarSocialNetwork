@@ -15,4 +15,4 @@ The object orientation of the application revolves around creation and interacti
 
 Beyond the original class design, changes have been limited to static images and styles as well as template files.  Models, views, and urls remain unchanged from those developed in the course.  
 
-
+Screen shots of the system running can be found in the 'screenshots' folder in the root directory.  
